@@ -1,2 +1,4 @@
-#!/usr/bin/env xxxxxx
+#!/usr/bin/env python
 print("hello world")
+
+
